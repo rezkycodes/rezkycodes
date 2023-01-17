@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rezkyrere
 - 👀 I’m interested in backend application
-- 🌱 I’m currently learning java spring web
+- 🌱 I’m currently learning java spring framework
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 rh3zky@gmail.com
 
 <!---
 rezkyrere/rezkyrere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
