@@ -21,7 +21,7 @@ An independent Software Engineer who loves to create and share projects about we
 ### Tech Stack
 <p>
   <a href="#"><img align="left" alt="Laravel" title="Laravel" width="32px" src="https://ik.imagekit.io/txrzakrd4/rdev-icon-stack/laravel.svg" /></a>
-  <a href="#"><img align="left" alt="Laravel" title="Laravel" width="32px" src="https://ik.imagekit.io/txrzakrd4/rdev-icon-stack/codeigniter.svg" /></a>
+  <a href="#"><img align="left" alt="Codeigniter" title="Codeigniter" width="32px" src="https://ik.imagekit.io/txrzakrd4/rdev-icon-stack/codeigniter.svg" /></a>
   <a href="#"><img align="left" alt="InertiaJS" title="InertiaJS" width="37px" src="https://ik.imagekit.io/txrzakrd4/rdev-icon-stack/inertia.svg" /></a>
   <a href="#"><img align="left" alt="API" title="API" width="35px" src="https://ik.imagekit.io/txrzakrd4/rdev-icon-stack/api.svg" /></a>
   <a href="#"><img align="left" alt="Tailwind" title="Tailwind" width="32px" src="https://ik.imagekit.io/txrzakrd4/rdev-icon-stack/tailwind.svg" /></a>
