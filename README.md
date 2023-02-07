@@ -1,20 +1,16 @@
 ### Hi! 👋 I'm Rezky. 
 An independent Software Engineer who loves to create and share projects about web technology!. I've enjoyed PHP Laravel and make it the main language in creating a project.
 
-- 💻 I’m currently working on [klikdigital.co.id](https://klikdigital.co.id/)
-- 🛠  Mostly working with PHP, Javascript, monolith app
-- 🌱 Still learning java spring framework, clean code, DDD
-- ✨ Amazed with ReactJS, Tailwind CSS
-- 💬 Ask me about Laravel, WordPress, CSS
-- 📫 rh3zky@gmail.com
-<br/>
+<img width="16px" src="https://tabler-icons.io/static/tabler-icons/icons/device-desktop.svg"/> &nbsp; I’m currently working on [klikdigital.co.id](https://klikdigital.co.id/)<br/>
+<img width="16px" style="padding-top:5px;" src="https://tabler-icons.io/static/tabler-icons/icons/tools.svg"/> &nbsp;  Mostly working with PHP, Javascript, monolith app <br/>
+<img width="16px" style="padding-top:5px;" src="https://tabler-icons.io/static/tabler-icons/icons/microscope.svg"/> &nbsp; Still learning java spring framework, clean code, DDD <br/>
+<img width="16px" style="padding-top:5px;" src="https://tabler-icons.io/static/tabler-icons/icons/wand.svg"/> &nbsp; Amazed with ReactJS, Tailwind CSS <br/>
+<img width="16px" style="padding-top:5px;" src="https://tabler-icons.io/static/tabler-icons/icons/message-circle-2.svg"/> &nbsp; Ask me about Laravel, WordPress, CSS <br/>
 
 ### Github Statistic
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&username=rezkyrere" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&username=rezkyrere" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&theme=graywhite&count_private=true&disable_animations=false&locale=en&hide_border=false&username=rezkyrere" height="150" alt="stats graph"  />
 </div>
-<br/>
 
 ### Tech Stack
 <p align="left">
