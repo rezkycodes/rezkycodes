@@ -1,11 +1,11 @@
 ### Hi! 👋 I'm Rezky. 
 An independent Software Engineer who loves to create and share projects about web technology!. I've enjoyed PHP Laravel and make it the main language in creating a project.
 
-<img width="16px" src="https://tabler-icons.io/static/tabler-icons/icons/device-desktop.svg"/> &nbsp; I’m currently working on [klikdigital.co.id](https://klikdigital.co.id/)<br/>
-<img width="16px" style="padding-top:5px;" src="https://tabler-icons.io/static/tabler-icons/icons/tools.svg"/> &nbsp;  Mostly working with PHP, Javascript, monolith app <br/>
-<img width="16px" style="padding-top:5px;" src="https://tabler-icons.io/static/tabler-icons/icons/microscope.svg"/> &nbsp; Still learning java spring framework, clean code, DDD <br/>
-<img width="16px" style="padding-top:5px;" src="https://tabler-icons.io/static/tabler-icons/icons/wand.svg"/> &nbsp; Amazed with ReactJS, Tailwind CSS <br/>
-<img width="16px" style="padding-top:5px;" src="https://tabler-icons.io/static/tabler-icons/icons/message-circle-2.svg"/> &nbsp; Ask me about Laravel, WordPress, CSS <br/>
+<img width="14px" src="https://tabler-icons.io/static/tabler-icons/icons/device-desktop.svg"/> &nbsp; I’m currently working on [klikdigital.co.id](https://klikdigital.co.id/)<br/>
+<img width="14px" style="padding-top:5px;" src="https://tabler-icons.io/static/tabler-icons/icons/tools.svg"/> &nbsp;  Mostly working with PHP, Javascript, monolith app <br/>
+<img width="14px" style="padding-top:5px;" src="https://tabler-icons.io/static/tabler-icons/icons/microscope.svg"/> &nbsp; Still learning java spring framework, clean code, DDD <br/>
+<img width="14px" style="padding-top:5px;" src="https://tabler-icons.io/static/tabler-icons/icons/wand.svg"/> &nbsp; Amazed with ReactJS, Tailwind CSS <br/>
+<img width="14px" style="padding-top:5px;" src="https://tabler-icons.io/static/tabler-icons/icons/message-circle-2.svg"/> &nbsp; Ask me about Laravel, WordPress, CSS <br/>
 
 ### Github Statistic
 <div align="left">
