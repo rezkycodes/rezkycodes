@@ -37,7 +37,6 @@ An independent Software Engineer who loves to create and share projects about we
   <a href="#"><img align="left" alt="npm" title="npm" width="32px" src="https://ik.imagekit.io/txrzakrd4/rdev-icon-stack/npm.svg" /></a>
   <a href="#"><img align="left" alt="git" title="git" width="32px" src="https://ik.imagekit.io/txrzakrd4/rdev-icon-stack/git.svg" /></a>
   <a href="#"><img align="left" alt="vscode" title="vscode" width="32px" src="https://ik.imagekit.io/txrzakrd4/rdev-icon-stack/vscode.svg" /></a>
-  <a href="#"><img align="left" alt="git" title="git" width="32px" src="https://ik.imagekit.io/txrzakrd4/rdev-icon-stack/git.svg" /></a>
 </p>
 <!---
 rezkyrere/rezkyrere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
