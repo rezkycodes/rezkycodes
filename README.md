@@ -10,14 +10,6 @@ An independent Software Engineer who loves to create and share projects about we
 
 <br/>
 
-### Github Statistic
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&username=rezkyrere" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&username=rezkyrere" height="150" alt="languages graph"  />
-</div>
-
-<br/>
- 
 ### Tech Stack
 <p align="left">
 <a href="#"><img align="left" alt="Laravel" title="Laravel" width="32px" src="https://ik.imagekit.io/txrzakrd4/rdev-icon-stack/laravel.svg" /></a>
@@ -37,3 +29,12 @@ An independent Software Engineer who loves to create and share projects about we
 <a href="#"><img align="left" alt="git" title="git" width="32px" src="https://ik.imagekit.io/txrzakrd4/rdev-icon-stack/git.svg" /></a>
 <a href="#"><img align="left" alt="vscode" title="vscode" width="32px" src="https://ik.imagekit.io/txrzakrd4/rdev-icon-stack/vscode.svg" /></a>
 </p>
+
+<br/>
+
+### Github Statistic
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&username=rezkyrere" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&username=rezkyrere" height="150" alt="languages graph"  />
+</div>
+
