@@ -1,4 +1,13 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rezkyrere&label=Profile%20views&color=2a2b2b&style=flat" alt="rezkyrere" /> </p>
+### Hi! 👋 I'm Rezky. 
+An independent Software Engineer who loves to create and share projects about web technology!. I've enjoyed PHP Laravel and make it the main language in creating a project.
+
+- 💻 I’m currently working on [klikdigital.co.id](https://klikdigital.co.id/)
+- 🛠  Mostly working with PHP, Javascript, monolith app
+- 🌱 Still learning java spring framework, clean code, DDD
+- ✨ Amazed with ReactJS, Tailwind CSS
+- 💬 Ask me about Laravel, WordPress, CSS
+- 📫 rh3zky@gmail.com
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&username=rezkyrere" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&username=rezkyrere" height="150" alt="languages graph"  />
@@ -11,25 +20,27 @@
 - 🌱 I’m currently learning java spring framework
 - 💞️ I’m looking to collaborate on ...
 - 📫 rh3zky@gmail.com
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=rezkyrere&label=Visitor&color=2a2b2b&style=flat" alt="rezkyrere" /> </p>
 ### Tech Stack
 <p>
-  <a href="#"><img align="left" alt="Laravel" title="Laravel" width="32px" src="https://ik.imagekit.io/txrzakrd4/laravel.svg" /></a>
-  <a href="#"><img align="left" alt="InertiaJS" title="InertiaJS" width="37px" src="https://ik.imagekit.io/txrzakrd4/inertia.svg" /></a>
-  <a href="#"><img align="left" alt="API" title="API" width="35px" src="https://ik.imagekit.io/txrzakrd4/api.svg" /></a>
-  <a href="#"><img align="left" alt="Tailwind" title="Tailwind" width="35px" src="https://ik.imagekit.io/txrzakrd4/tailwind.svg" /></a>
-  <a href="#"><img align="left" alt="Tailwind" title="Tailwind" width="35px" src="https://ik.imagekit.io/txrzakrd4/bootstrap.svg" /></a>
-  
- 
-  <a href="https://kotlinlang.org/"><img align="left" alt="Kotlin" title="Kotlin" width="31px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin-icon.svg" /></a>
-  <a href="https://en.cppreference.com/w/"><img align="left" alt="C++" title="C++" width="31px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/120px-ISO_C%2B%2B_Logo.svg.png" /></a>
-  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="31px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-  <a href="https://reactnative.dev/"><img align="left" alt="React Native" title="React Native" width="31px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-  <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React SSR Framework)" width="31px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
-    <a href="https://next-auth.js.org/"><img align="left" alt="NextAuth" title="NextAuth" width="31px" src="https://next-auth.js.org/img/logo/logo-sm.png" /></a>
-    <a href="https://mui.com/"><img align="left" alt="Material UI" title="Material UI" width="31px" src="https://mui.com/static/logo.png" /></a>
-    <a href="https://tailwindcss.com/"><img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="31px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" /></a>
-    <a href="https://reactnativepaper.com/"><img align="left" alt="React Native Paper" title="React Native Paper" width="31px" src="https://pbs.twimg.com/profile_images/1197491571849084933/HAwtsa-i_400x400.jpg" /></a>
+  <a href="#"><img align="left" alt="Laravel" title="Laravel" width="32px" src="https://ik.imagekit.io/txrzakrd4/rdev-icon-stack/laravel.svg" /></a>
+  <a href="#"><img align="left" alt="Laravel" title="Laravel" width="32px" src="https://ik.imagekit.io/txrzakrd4/rdev-icon-stack/codeigniter.svg" /></a>
+  <a href="#"><img align="left" alt="InertiaJS" title="InertiaJS" width="37px" src="https://ik.imagekit.io/txrzakrd4/rdev-icon-stack/inertia.svg" /></a>
+  <a href="#"><img align="left" alt="API" title="API" width="35px" src="https://ik.imagekit.io/txrzakrd4/rdev-icon-stack/api.svg" /></a>
+  <a href="#"><img align="left" alt="Tailwind" title="Tailwind" width="32px" src="https://ik.imagekit.io/txrzakrd4/rdev-icon-stack/tailwind.svg" /></a>
+  <a href="#"><img align="left" alt="Bootstrap" title="Bootstrap" width="32px" src="https://ik.imagekit.io/txrzakrd4/rdev-icon-stack/bootstrap.svg" /></a>
+  <a href="#"><img align="left" alt="ReactJS" title="ReactJS" width="32px" src="https://ik.imagekit.io/txrzakrd4/rdev-icon-stack/reactjs.svg" /></a>
+  <a href="#"><img align="left" alt="Html5" title="Html5" width="32px" src="https://ik.imagekit.io/txrzakrd4/rdev-icon-stack/html5.svg" /></a>
+  <a href="#"><img align="left" alt="Css3" title="Css3" width="32px" src="https://ik.imagekit.io/txrzakrd4/rdev-icon-stack/css3.svg" /></a> 
+  <a href="#"><img align="left" alt="Javascrtip" title="Javascrtip" width="32px" src="https://ik.imagekit.io/txrzakrd4/rdev-icon-stack/javascript.svg" /></a>
+  <a href="#"><img align="left" alt="Php" title="Php" width="32px" src="https://ik.imagekit.io/txrzakrd4/rdev-icon-stack/php.svg" /></a>
+  <a href="#"><img align="left" alt="mysql" title="mysql" width="32px" src="https://ik.imagekit.io/txrzakrd4/rdev-icon-stack/mysql.svg" /></a>
+  <a href="#"><img align="left" alt="github" title="github" width="32px" src="https://ik.imagekit.io/txrzakrd4/rdev-icon-stack/github.svg" /></a>
+  <a href="#"><img align="left" alt="gitlab" title="gitlab" width="32px" src="https://ik.imagekit.io/txrzakrd4/rdev-icon-stack/gitlab.svg" /></a>
+  <a href="#"><img align="left" alt="npm" title="npm" width="32px" src="https://ik.imagekit.io/txrzakrd4/rdev-icon-stack/npm.svg" /></a>
+  <a href="#"><img align="left" alt="git" title="git" width="32px" src="https://ik.imagekit.io/txrzakrd4/rdev-icon-stack/git.svg" /></a>
+  <a href="#"><img align="left" alt="vscode" title="vscode" width="32px" src="https://ik.imagekit.io/txrzakrd4/rdev-icon-stack/vscode.svg" /></a>
+  <a href="#"><img align="left" alt="git" title="git" width="32px" src="https://ik.imagekit.io/txrzakrd4/rdev-icon-stack/git.svg" /></a>
 </p>
 <!---
 rezkyrere/rezkyrere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
