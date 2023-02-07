@@ -34,7 +34,6 @@ An independent Software Engineer who loves to create and share projects about we
   <a href="#"><img align="left" alt="mysql" title="mysql" width="32px" src="https://ik.imagekit.io/txrzakrd4/rdev-icon-stack/mysql.svg" /></a>
   <a href="#"><img align="left" alt="github" title="github" width="32px" src="https://ik.imagekit.io/txrzakrd4/rdev-icon-stack/github.svg" /></a>
   <a href="#"><img align="left" alt="gitlab" title="gitlab" width="32px" src="https://ik.imagekit.io/txrzakrd4/rdev-icon-stack/gitlab.svg" /></a>
-  <a href="#"><img align="left" alt="npm" title="npm" width="32px" src="https://ik.imagekit.io/txrzakrd4/rdev-icon-stack/npm.svg" /></a>
   <a href="#"><img align="left" alt="git" title="git" width="32px" src="https://ik.imagekit.io/txrzakrd4/rdev-icon-stack/git.svg" /></a>
   <a href="#"><img align="left" alt="vscode" title="vscode" width="32px" src="https://ik.imagekit.io/txrzakrd4/rdev-icon-stack/vscode.svg" /></a>
 </p>
