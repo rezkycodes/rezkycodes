@@ -19,7 +19,7 @@ An independent Software Engineer who loves to create and share projects about we
 <a href="#"><img align="left" alt="InertiaJS" title="InertiaJS" width="37px" src="https://ik.imagekit.io/txrzakrd4/rdev-icon-stack/inertia.svg" /></a>
 <a href="#"><img align="left" alt="Tailwind" title="Tailwind" width="32px" src="https://ik.imagekit.io/txrzakrd4/rdev-icon-stack/tailwind.svg" /></a>
 <a href="#"><img align="left" alt="Bootstrap" title="Bootstrap" width="32px" src="https://ik.imagekit.io/txrzakrd4/rdev-icon-stack/bootstrap.svg" /></a>
-<a href="#"><img align="left" alt="ReactJS" title="ReactJS" width="32px" src="https://ik.imagekit.io/txrzakrd4/rdev-icon-stack/reactjs.svg" /></a>
+<a href="#"><img align="left" alt="ReactJS" title="ReactJS" width="32px" src="https://ik.imagekit.io/txrzakrd4/stack-icon/reactjs.svg" /></a>
 <a href="#"><img align="left" alt="Javascrtip" title="Javascrtip" width="32px" src="https://ik.imagekit.io/txrzakrd4/rdev-icon-stack/javascript.svg" /></a>
 <a href="#"><img align="left" alt="mysql" title="mysql" width="32px" src="https://ik.imagekit.io/txrzakrd4/rdev-icon-stack/mysql.svg" /></a>
 </p>
