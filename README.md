@@ -7,10 +7,6 @@ An independent Software Engineer who loves to create and share projects about we
 <img width="14px" style="padding-top:5px;" src="https://tabler-icons.io/static/tabler-icons/icons/wand.svg"/> &nbsp; Amazed with ReactJS, Tailwind CSS <br/>
 <img width="14px" style="padding-top:5px;" src="https://tabler-icons.io/static/tabler-icons/icons/message-circle-2.svg"/> &nbsp; Ask me about Laravel, WordPress, CSS <br/>
 
-### Github Statistic
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&theme=graywhite&count_private=true&disable_animations=false&locale=en&hide_border=false&username=rezkyrere" height="150" alt="stats graph"  />
-</div>
 
 ### Tech Stack
 <p align="left">
