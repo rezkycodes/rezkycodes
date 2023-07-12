@@ -10,12 +10,13 @@ An independent Software Engineer who loves to create and share projects about we
 
 ### Tech Stack
 <p align="left">
-<a href="#"><img align="left" alt="Laravel" title="Laravel" width="32px" src="https://ik.imagekit.io/txrzakrd4/stack-icon/laravel.svg" /></a>
-<a href="#"><img align="left" alt="Codeigniter" title="Codeigniter" width="32px" src="https://ik.imagekit.io/txrzakrd4/stack-icon/codeigniter.svg" /></a>
-<a href="#"><img align="left" alt="InertiaJS" title="InertiaJS" width="37px" src="https://ik.imagekit.io/txrzakrd4/stack-icon/inertia.svg" /></a>
-<a href="#"><img align="left" alt="Tailwind" title="Tailwind" width="32px" src="https://ik.imagekit.io/txrzakrd4/stack-icon/tailwind.svg" /></a>
-<a href="#"><img align="left" alt="Bootstrap" title="Bootstrap" width="32px" src="https://ik.imagekit.io/txrzakrd4/stack-icon/bootstrap.svg" /></a>
-<a href="#"><img align="left" alt="ReactJS" title="ReactJS" width="32px" src="https://ik.imagekit.io/txrzakrd4/stack-icon/reactjs.svg" /></a>
-<a href="#"><img align="left" alt="Javascrtip" title="Javascrtip" width="32px" src="https://ik.imagekit.io/txrzakrd4/stack-icon/javascript.svg" /></a>
-<a href="#"><img align="left" alt="mysql" title="mysql" width="32px" src="https://ik.imagekit.io/txrzakrd4/stack-icon/mysql.svg" /></a>
+  
+<a href="#"><img align="left" alt="Laravel" title="Laravel" width="32px" src="https://ik.imagekit.io/t9tvufcxr/stack-icon/laravel.svg" /></a>
+<a href="#"><img align="left" alt="Codeigniter" title="Codeigniter" width="32px" src="https://ik.imagekit.io/t9tvufcxr/stack-icon/codeigniter.svg" /></a>
+<a href="#"><img align="left" alt="InertiaJS" title="InertiaJS" width="37px" src="https://ik.imagekit.io/t9tvufcxr/stack-icon/inertia.svg" /></a>
+<a href="#"><img align="left" alt="Tailwind" title="Tailwind" width="32px" src="https://ik.imagekit.io/t9tvufcxr/stack-icon/tailwind.svg" /></a>
+<a href="#"><img align="left" alt="Bootstrap" title="Bootstrap" width="32px" src="https://ik.imagekit.io/t9tvufcxr/stack-icon/bootstrap.svg" /></a>
+<a href="#"><img align="left" alt="ReactJS" title="ReactJS" width="32px" src="https://ik.imagekit.io/t9tvufcxr/stack-icon/reactjs.svg" /></a>
+<a href="#"><img align="left" alt="Javascrtip" title="Javascrtip" width="32px" src="https://ik.imagekit.io/t9tvufcxr/stack-icon/javascript.svg" /></a>
+<a href="#"><img align="left" alt="mysql" title="mysql" width="32px" src="https://ik.imagekit.io/t9tvufcxr/stack-icon/mysql.svg" /></a>
 </p>
