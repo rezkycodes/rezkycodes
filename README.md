@@ -6,7 +6,7 @@ I like to keep things clean, simple, and efficient — both in code and design.
 
 ### 🚀 Tech Stack
 - **Languages**: TypeScript, JavaScript, PHP  
-- **Frameworks**: NestJS, Next.js, Laravel, ElysiaJS, ExpressJS, Fiber
+- **Frameworks**: Next.js, ElysiaJS, Laravel, NestJS, ExpressJS, Fiber
 - **Runtimes**: Node.js, Bun.js    
 - **Databases**: PostgreSQL, MySQL  
 - **Tools**: Docker, Redis, Prisma, Kafka, PM2, RabittMQ  
