@@ -14,7 +14,7 @@ I like to keep things clean, simple, and efficient — both in code and design.
 ### 🌱 Currently Learning
 - Microservices with Bun.js & Kafka  
 - Monitoring and logging with OpenTelemetry & Grafana  
-- Building APIs with Golang (Fiber & GORM) 
+- Building APIs with Golang Chi Router 
 
 ### ✨ Fun Fact
 When I’m not coding, I enjoy experimenting with creative tools and exploring new ideas for side projects.
