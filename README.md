@@ -25,7 +25,7 @@ I'm a **Fullstack Web Developer & AI Prompt Engineer**. I architect scalable web
 
 **Infra & Caching:** Docker, Redis (Upstash), Kafka, RabbitMQ, PM2
 
-**AI Tooling:** Claude Code, pi.dev, opencode, [orca.dev](https://orca.dev) | AI Agent Orchestration, Multi-Agent Workflows, Prompt Engineering & Custom Rules
+**AI Tooling:** Claude Code, command code, antigravity, [orca.dev](https://orca.dev) | AI Agent Orchestration, Multi-Agent Workflows, Prompt Engineering & Custom Rules
 
 ---
 
